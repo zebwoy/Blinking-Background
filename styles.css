@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    font-family: cursive;
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    flex-direction: column;
+}
+
+span:nth-child(1) {
+    color: #3cba54;
+}
+
+span:nth-child(2) {
+    color: #db3236;
+}
+
+span:nth-child(3) {
+    color: #f4c20d;
+}
+
+span:nth-child(4) {
+    color: #4885ed;
+}
+
+span:nth-child(5) {
+    color: #3cba54;
+}
+
+span:nth-child(6) {
+    color: #db3236;
+}
